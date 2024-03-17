@@ -52,7 +52,7 @@ function Home() {
               Esaint Mjay
             </h2>
             <h3 className="text-2xl dark:text-white py-2 md:text-3xl">
-              Developer and Designer
+              Developer and designer
             </h3>
             <p className="text-md py-2 leading-6 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200">
               Freelancing providing services for programming and design content
